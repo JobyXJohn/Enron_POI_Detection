@@ -1,0 +1,13 @@
+http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_twoclass.html#example-ensemble-plot-adaboost-twoclass-py
+http://scikit-learn.org/stable/modules/svm.html
+http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html#sklearn.grid_search.GridSearchCV
+http://stackoverflow.com/questions/7974849/how-can-i-make-one-python-file-run-another
+http://stackoverflow.com/questions/16473042/numpy-vstack-vs-column-stack
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_curve
+http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#example-model-selection-plot-roc-crossval-py
+https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+
+ 
